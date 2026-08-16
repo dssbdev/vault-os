@@ -1,0 +1,11 @@
+.obsidian/
+.claude/
+.trash/
+obsidian-vault/00-System/attachments/
+*.private.md
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
