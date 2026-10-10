@@ -8,7 +8,7 @@ created: 2026-06-02
 
 # Home Kitchen
 
-Everything about feeding myself well without it taking over the week. This is an area, not a project — there is no finish line, only a rhythm that either holds or slips.
+Everything about feeding myself well without it taking over the week. This is an area, not a project - there is no finish line, only a rhythm that either holds or slips.
 
 ## The rhythm
 
@@ -16,7 +16,7 @@ Plan on Saturday, shop once on Sunday, cook most evenings, eat leftovers at leas
 
 ## What's always stocked
 
-Rice, pasta, tinned tomatoes, tinned beans, onions, garlic, eggs, olive oil, frozen peas, a hard cheese. With those in the cupboard there is always a meal available, which matters far more than it sounds — the emergency meal is what stops a bad evening turning into a takeaway and a wasted shop.
+Rice, pasta, tinned tomatoes, tinned beans, onions, garlic, eggs, olive oil, frozen peas, a hard cheese. With those in the cupboard there is always a meal available, which matters far more than it sounds - the emergency meal is what stops a bad evening turning into a takeaway and a wasted shop.
 
 ## Standing problems
 
@@ -28,7 +28,7 @@ Rice, pasta, tinned tomatoes, tinned beans, onions, garlic, eggs, olive oil, fro
 
 ## Related
 
-- [[meal-planning-basics]] — the weekly planning method
-- [[recipe-box-app]] — the project fixing the scattered-recipes problem
+- [[meal-planning-basics]] - the weekly planning method
+- [[recipe-box-app]] - the project fixing the scattered-recipes problem
 
 ⚠️ No freezer inventory exists, so the freezer functions as a place where food goes to be forgotten. A sheet of paper taped to the door would probably solve it.

@@ -1,5 +1,5 @@
 ---
-title: "Balcony herbs — basil, parsley, coriander"
+title: "Balcony herbs - basil, parsley, coriander"
 type: project
 status: deferred
 tags: [home/cooking, project/deferred]
@@ -9,7 +9,7 @@ deadline:
 
 # Balcony herbs
 
-Grow the three herbs I buy every week and throw half of. Small, cheap, and pleasant — which is exactly why it got deferred: it competes for the same evenings as [[recipe-box-app]] and wins on fun while losing on value.
+Grow the three herbs I buy every week and throw half of. Small, cheap, and pleasant - which is exactly why it got deferred: it competes for the same evenings as [[recipe-box-app]] and wins on fun while losing on value.
 
 ## Why deferred, not dropped
 
@@ -21,5 +21,5 @@ Basil wants sun and hates wind; the balcony has both, in that order. Parsley is 
 
 ## Related
 
-- [[home-kitchen]] — the area it would serve
-- [[meal-planning-basics]] — fewer herb purchases means a shorter shopping list
+- [[home-kitchen]] - the area it would serve
+- [[meal-planning-basics]] - fewer herb purchases means a shorter shopping list

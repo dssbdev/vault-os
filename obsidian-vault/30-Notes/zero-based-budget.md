@@ -10,7 +10,7 @@ created: 2026-05-25
 
 ## Overview
 
-Before the month starts, give every unit of income a job — rent, food, savings, fun — until nothing is unassigned. Not a tracking method; a deciding method. The tracking is just checking whether you did what you decided.
+Before the month starts, give every unit of income a job - rent, food, savings, fun - until nothing is unassigned. Not a tracking method; a deciding method. The tracking is just checking whether you did what you decided.
 
 ## Key concepts
 
@@ -18,7 +18,7 @@ Before the month starts, give every unit of income a job — rent, food, savings
 
 **Variable lines are where it lives or dies.** Rent is easy. Food is the line that drifts, which is why [[meal-planning-basics]] did more for the budget than any spreadsheet.
 
-**A line for irregular costs.** Bike repairs, a new drive for [[home-backup-plan]], a birthday — predictable on average, surprising individually. A small monthly amount set aside turns surprises into withdrawals.
+**A line for irregular costs.** Bike repairs, a new drive for [[home-backup-plan]], a birthday - predictable on average, surprising individually. A small monthly amount set aside turns surprises into withdrawals.
 
 ## Practical application
 
@@ -26,8 +26,8 @@ First evening of the month, fifteen minutes: copy last month's lines, adjust for
 
 ## Related
 
-- [[money]] — the area
-- [[2026-05-25-subscription-audit]] — the first review that used it
+- [[money]] - the area
+- [[2026-05-25-subscription-audit]] - the first review that used it
 
 ## Sources
 

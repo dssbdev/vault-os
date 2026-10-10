@@ -8,7 +8,7 @@ created: 2026-05-25
 
 # Money
 
-Spending on purpose instead of by default. Not investing advice, not a spreadsheet hobby — just knowing where it goes.
+Spending on purpose instead of by default. Not investing advice, not a spreadsheet hobby - just knowing where it goes.
 
 ## How it runs
 
@@ -16,7 +16,7 @@ A [[zero-based-budget]] set once a month: every euro gets a job before the month
 
 ## Subscriptions
 
-Reviewed in January and July — see [[2026-05-25-subscription-audit]] and the review rule in [[digital-life]]. The backup service from [[2026-07-21-backup-target-decision]] is the one subscription added on purpose this year.
+Reviewed in January and July - see [[2026-05-25-subscription-audit]] and the review rule in [[digital-life]]. The backup service from [[2026-08-02-backup-target-decision]] is the one subscription added on purpose this year.
 
 ## Standing problems
 
@@ -24,6 +24,6 @@ Reviewed in January and July — see [[2026-05-25-subscription-audit]] and the r
 
 ## Related
 
-- [[zero-based-budget]] — the method
-- [[digital-life]] — where most of the subscriptions live
-- [[meal-kit-subscription]] — the subscription that taught the lesson
+- [[zero-based-budget]] - the method
+- [[digital-life]] - where most of the subscriptions live
+- [[meal-kit-subscription]] - the subscription that taught the lesson

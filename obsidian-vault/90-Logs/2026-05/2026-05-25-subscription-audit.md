@@ -17,7 +17,7 @@ Listed every recurring charge from three months of statements. Eleven of them. F
 ## Key decisions
 
 - Cancel anything not opened in the last month. Resubscribing is easy; noticing is not.
-- Review twice a year, January and July — rule now lives in [[digital-life]].
+- Review twice a year, January and July - rule now lives in [[digital-life]].
 - Start a [[zero-based-budget]] so new subscriptions are a decision, not a default.
 
 ## Insights worth keeping
@@ -26,5 +26,5 @@ Subscriptions are designed to be forgotten, so the defence has to be scheduled, 
 
 ## Links
 
-- [[money]] — the area this started
-- [[meal-kit-subscription]] — the biggest line on the list
+- [[money]] - the area this started
+- [[meal-kit-subscription]] - the biggest line on the list

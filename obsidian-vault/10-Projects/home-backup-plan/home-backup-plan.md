@@ -1,5 +1,5 @@
 ---
-title: "Home Backup Plan — stop gambling with the photos"
+title: "Home Backup Plan - stop gambling with the photos"
 type: project
 status: planning
 tags: [home/files, tech/backups, project/planning]
@@ -9,7 +9,7 @@ deadline: 2026-09-13
 
 # Home Backup Plan
 
-Right now every photo I have ever taken exists in exactly one place. If the laptop is stolen, dropped, or simply stops turning on one morning, all of it is gone. This project fixes that and then stops — it is a project, not a hobby, and it has an end.
+Right now every photo I have ever taken exists in exactly one place. If the laptop is stolen, dropped, or simply stops turning on one morning, all of it is gone. This project fixes that and then stops - it is a project, not a hobby, and it has an end.
 
 ## Goal
 
@@ -22,7 +22,7 @@ In: photos, scanned documents, the notes vault, and the recipe file from [[recip
 ## Steps
 
 - [x] List what exists and roughly how big it is 📅 2026-07-26
-- [x] Choose the offsite destination 📅 2026-08-02 — see [[2026-07-21-backup-target-decision]]
+- [x] Choose the offsite destination 📅 2026-08-02 - see [[2026-08-02-backup-target-decision]]
 - [ ] Buy an external drive and make the first local copy 📅 2026-08-23
 - [ ] Set the offsite copy to run on its own, without me remembering 📅 2026-08-30
 - [ ] Delete a test file and restore it from each copy 📅 2026-09-06
@@ -32,9 +32,9 @@ The restore test is the step everyone skips, and skipping it is how people disco
 
 ## Related
 
-- [[digital-life]] — the area this belongs to
-- [[backup-rule-321]] — the rule this is an application of
-- [[2026-07-21-backup-target-decision]] — why the cheapest option lost
-- [[plain-text-files]] — why most of this is small and easy to copy
+- [[digital-life]] - the area this belongs to
+- [[backup-rule-321]] - the rule this is an application of
+- [[2026-08-02-backup-target-decision]] - why the cheapest option lost
+- [[plain-text-files]] - why most of this is small and easy to copy
 
 ⚠️ Roughly 40 GB of the photo library is duplicates from old phone transfers. Deduplicating first would make every later step cheaper, but it is also a perfect way to spend three weeks not backing anything up. Copy first, clean later.

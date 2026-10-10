@@ -16,11 +16,11 @@ The [[learn-portuguese-a2]] project carries the structured part until November. 
 
 ## What works
 
-Listening while doing something else — cooking, cycling to the shop — adds up to more hours than any app ever did. *Devagar se vai ao longe*: slowly, you go far.
+Listening while doing something else - cooking, cycling to the shop - adds up to more hours than any app ever did. *Devagar se vai ao longe*: slowly, you go far.
 
 ## Related
 
-- [[learn-portuguese-a2]] — the active project
-- [[portuguese-a2-course]] — the course notes
-- [[portuguese-pronunciation]] — the sounds that keep tripping me up
-- [[learning]] — the general method
+- [[learn-portuguese-a2]] - the active project
+- [[portuguese-a2-course]] - the course notes
+- [[portuguese-pronunciation]] - the sounds that keep tripping me up
+- [[learning]] - the general method

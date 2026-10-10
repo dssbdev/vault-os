@@ -1,5 +1,5 @@
 ---
-title: "Meal-kit subscription — weekly boxes"
+title: "Meal-kit subscription - weekly boxes"
 type: project
 status: archived
 tags: [home/cooking, project/archived]
@@ -18,7 +18,7 @@ Pay for a weekly box of pre-portioned ingredients and recipe cards, so that deci
 
 ## What happened
 
-It solved the deciding, which was the real problem — and that turned out to be all it solved. The boxes cost several times the ingredients, the recipes were new every week (novelty is expensive, as [[meal-planning-basics]] later put it), and the packaging filled the recycling bin by Wednesday.
+It solved the deciding, which was the real problem - and that turned out to be all it solved. The boxes cost several times the ingredients, the recipes were new every week (novelty is expensive, as [[meal-planning-basics]] later put it), and the packaging filled the recycling bin by Wednesday.
 
 ## Why archived, not deleted
 

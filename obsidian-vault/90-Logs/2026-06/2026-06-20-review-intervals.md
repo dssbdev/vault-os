@@ -12,7 +12,7 @@ chat-type: research
 
 ## Summary
 
-Started writing up [[spaced-repetition]] and hit a question it doesn't answer: the classic intervals are designed for producing a fact from memory. Most of my notes aren't facts to recite — they're things I need to know *exist*, and where.
+Started writing up [[spaced-repetition]] and hit a question it doesn't answer: the classic intervals are designed for producing a fact from memory. Most of my notes aren't facts to recite - they're things I need to know *exist*, and where.
 
 ## Key decisions
 

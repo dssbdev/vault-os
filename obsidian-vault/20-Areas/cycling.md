@@ -12,7 +12,7 @@ Getting to work, getting outside on weekends, and keeping one bike working witho
 
 ## How it runs
 
-Commute Monday, Tuesday and Thursday — set up in [[bike-commute]]. One longer ride at the weekend when the weather allows and the kitchen plan doesn't need the morning. Ten-minute check every Sunday from [[bike-maintenance-basics]].
+Commute Monday, Tuesday and Thursday - set up in [[bike-commute]]. One longer ride at the weekend when the weather allows and the kitchen plan doesn't need the morning. Ten-minute check every Sunday from [[bike-maintenance-basics]].
 
 ## Standing problems
 
@@ -22,6 +22,6 @@ Commute Monday, Tuesday and Thursday — set up in [[bike-commute]]. One longer 
 
 ## Related
 
-- [[bike-commute]] — the project that set this up
-- [[2026-05-31-bike-commute-trial]] — what the trial month taught
-- [[habit-anchoring]] — why the fixed days survive
+- [[bike-commute]] - the project that set this up
+- [[2026-05-31-bike-commute-trial]] - what the trial month taught
+- [[habit-anchoring]] - why the fixed days survive

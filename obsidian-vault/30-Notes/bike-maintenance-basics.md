@@ -16,11 +16,11 @@ A commuting bike needs about ten minutes a week and almost no skill. Neglect tur
 
 **Tyre pressure, weekly.** Tyres lose pressure steadily even without a puncture. Soft tyres are slower, puncture more easily, and feel like you've lost fitness.
 
-**Clean and lube the chain.** A dry or gritty chain wears itself and the gears. Wipe, lube sparingly, wipe again — excess lube collects grit.
+**Clean and lube the chain.** A dry or gritty chain wears itself and the gears. Wipe, lube sparingly, wipe again - excess lube collects grit.
 
 **Brakes, by squeezing.** If a lever pulls nearly to the bar, the pads or cable need attention before the next ride, not after.
 
-**The ABC check.** Air, Brakes, Chain — before any longer ride. Thirty seconds.
+**The ABC check.** Air, Brakes, Chain - before any longer ride. Thirty seconds.
 
 ## Practical application
 
@@ -28,8 +28,8 @@ Sunday, after the weekend ride: pressure, chain, brakes, lights charging. Anchor
 
 ## Related
 
-- [[cycling]] — the area
-- [[bike-commute]] — the reason it matters
+- [[cycling]] - the area
+- [[bike-commute]] - the reason it matters
 
 ## Sources
 

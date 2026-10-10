@@ -25,16 +25,16 @@ The properties block at the top of every note. Kept small on purpose: five field
 | Field | Types | Why |
 |---|---|---|
 | `deadline` | `project` | A project without one is an area in disguise |
-| `confidence` | `decision` | How sure I was — high-confidence decisions that turn out wrong are the interesting ones |
+| `confidence` | `decision` | How sure I was - high-confidence decisions that turn out wrong are the interesting ones |
 | `superseded-by` | anything archived | Points at what replaced it, so the old reasoning stays reachable |
 | `sprint-dates` | `plan` | The two-week window |
 
 ## Status lifecycle
 
-`inbox → planning → active → reviewed → evergreen`, with `deferred` and `archived` as exits. Status moves; the file doesn't — links never break.
+`inbox → planning → active → reviewed → evergreen`, with `deferred` and `archived` as exits. Status moves; the file doesn't - links never break.
 
 ## Related
 
-- [[CLAUDE]] — the vault map that lists these conventions at the top level
-- [[plain-text-files]] — why properties in plain files are worth anything
-- [[note-taking-methods]] — folders vs links vs tags
+- [[CLAUDE]] - the vault map that lists these conventions at the top level
+- [[plain-text-files]] - why properties in plain files are worth anything
+- [[note-taking-methods]] - folders vs links vs tags

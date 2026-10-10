@@ -7,11 +7,11 @@ sprint-dates: 2026-08-17/2026-08-30
 created: 2026-08-17
 ---
 
-# Sprint 2026-W34-W35 (Mon 17 — Sun 30 August)
+# Sprint 2026-W34-W35 (Mon 17 - Sun 30 August)
 
 ## Top priorities
 
-1. [[recipe-box-app]] usable end to end — list, search, and the real recipes in it
+1. [[recipe-box-app]] usable end to end - list, search, and the real recipes in it
 2. [[home-backup-plan]] gets its first physical copy made
 3. Weekly review happens both Sundays, not just the first one
 
@@ -36,7 +36,7 @@ Last sprint ([[2026-W32-W33]]) split attention across both projects and finished
 - [ ] Freezer inventory sheet for [[home-kitchen]]
 - [ ] Rewrite [[spaced-repetition]] once the interval question is settled
 
-## Deferred — out of this sprint
+## Deferred - out of this sprint
 
 - Photo library deduplication. Named in [[home-backup-plan]] as a trap: copy first, clean later.
 - Any new recipes. The rotation is the scope; discovering new food is not.

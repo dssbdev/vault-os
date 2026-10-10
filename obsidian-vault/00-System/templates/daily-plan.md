@@ -6,7 +6,7 @@ tags: [planning/daily]
 created: {{date}}
 ---
 
-# {{date}} — {{weekday}}
+# {{date}} - {{weekday}}
 
 Day N of the current sprint. One line on what kind of day this is.
 

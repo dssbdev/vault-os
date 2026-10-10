@@ -10,7 +10,7 @@ created: 2026-06-14
 
 ## Overview
 
-Meal planning is the practice of deciding what you will eat before you are hungry. That is the entire idea. Everything else is technique for making the decision stick — because the version of you standing in a shop at 18:30 is not the same person who thought about nutrition on Saturday morning.
+Meal planning is the practice of deciding what you will eat before you are hungry. That is the entire idea. Everything else is technique for making the decision stick - because the version of you standing in a shop at 18:30 is not the same person who thought about nutrition on Saturday morning.
 
 ## Key concepts
 
@@ -32,8 +32,8 @@ The measurable sign it's working is not variety or nutrition. It's the number of
 
 ## Related
 
-- [[home-kitchen]] — the area this method serves
-- [[recipe-box-app]] — the tool being built to hold the rotation
+- [[home-kitchen]] - the area this method serves
+- [[recipe-box-app]] - the tool being built to hold the rotation
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "Choosing where the offsite backup copy lives"
 type: decision
 status: reviewed
 tags: [tech/backups, home/files]
-created: 2026-07-21
+created: 2026-08-02
 domain: home/files
 confidence: high
 ---
@@ -12,7 +12,7 @@ confidence: high
 
 ## Context
 
-I had been treating a synced cloud folder as a backup for about two years. It isn't — it copies deletions and corruption everywhere within seconds, and protects only against a dead machine. Once that was clear, the whole plan needed replacing, and the first real question was where the offsite copy should live. The rule being applied is in [[backup-rule-321]].
+I had been treating a synced cloud folder as a backup for about two years. It isn't - it copies deletions and corruption everywhere within seconds, and protects only against a dead machine. Once that was clear, the whole plan needed replacing, and the first real question was where the offsite copy should live. The rule being applied is in [[backup-rule-321]].
 
 ## Options considered
 
@@ -28,7 +28,7 @@ I had been treating a synced cloud folder as a backup for about two years. It is
 
 Local external drive as the second copy, mainstream automatic service as the offsite third copy.
 
-The deciding factor wasn't price, it was whether I'd ever test it. The monthly difference between the cheap and the convenient option is small in absolute terms; the difference in how often the restore path gets exercised is enormous. Optimising a backup for storage cost is optimising the wrong end — the expensive moment is the restore, and it happens exactly once, on the worst day.
+The deciding factor wasn't price, it was whether I'd ever test it. The monthly difference between the cheap and the convenient option is small in absolute terms; the difference in how often the restore path gets exercised is enormous. Optimising a backup for storage cost is optimising the wrong end - the expensive moment is the restore, and it happens exactly once, on the worst day.
 
 ## Expected outcome
 
@@ -40,6 +40,6 @@ By mid-September: three copies exist, the offsite one runs without me, and I hav
 
 ## Links
 
-- [[home-backup-plan]] — the project executing this
-- [[backup-rule-321]] — the rule
-- [[digital-life]] — the area, including the superseded sync-is-backup reasoning
+- [[home-backup-plan]] - the project executing this
+- [[backup-rule-321]] - the rule
+- [[digital-life]] - the area, including the superseded sync-is-backup reasoning

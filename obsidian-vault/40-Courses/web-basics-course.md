@@ -1,5 +1,5 @@
 ---
-title: "Course — Web basics for one small page"
+title: "Course - Web basics for one small page"
 type: course
 status: reviewed
 tags: [dev/small-tools, course]
@@ -22,4 +22,4 @@ Everything about servers, build tools, and frameworks. Recorded as a deliberate 
 
 ## The one surprise
 
-Loading a data file from disk is harder than it sounds — browsers block it for security. The fix is researched in [[2026-06-offline-first-web-pages]].
+Loading a data file from disk is harder than it sounds - browsers block it for security. The fix is researched in [[2026-06-offline-first-web-pages]].

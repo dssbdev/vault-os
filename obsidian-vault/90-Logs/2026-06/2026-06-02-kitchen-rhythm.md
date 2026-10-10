@@ -12,7 +12,7 @@ chat-type: planning
 
 ## Summary
 
-The meal-kit box was gone and the replacement had to be cheaper than the box without needing more willpower. Talked through what actually breaks: never the cooking, always the deciding — at 18:30, in the shop, hungry.
+The meal-kit box was gone and the replacement had to be cheaper than the box without needing more willpower. Talked through what actually breaks: never the cooking, always the deciding - at 18:30, in the shop, hungry.
 
 ## Key decisions
 
@@ -26,6 +26,6 @@ Planning is a different person's job than cooking. Saturday-me plans; Wednesday-
 
 ## Links
 
-- [[home-kitchen]] — the area this created
-- [[meal-kit-subscription]] — what it replaced
-- [[habit-anchoring]] — why the Sunday shop holds everything else up
+- [[home-kitchen]] - the area this created
+- [[meal-kit-subscription]] - what it replaced
+- [[habit-anchoring]] - why the Sunday shop holds everything else up

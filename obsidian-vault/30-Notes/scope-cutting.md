@@ -14,7 +14,7 @@ Most personal projects don't fail; they just never finish, because the version b
 
 ## Key concepts
 
-**Ask "what's the current alternative?"** The bar for a recipe page isn't a perfect app — it's a folder of screenshots. Anything better than the current alternative is already a win.
+**Ask "what's the current alternative?"** The bar for a recipe page isn't a perfect app - it's a folder of screenshots. Anything better than the current alternative is already a win.
 
 **Design for the real user, who is you.** Every feature cut from [[recipe-box-app]] in [[2026-07-09-recipe-box-scope]] was designed for an imaginary person who cooks differently than I do.
 
@@ -24,13 +24,13 @@ Most personal projects don't fail; they just never finish, because the version b
 
 ## Practical application
 
-Before building anything, list the features, then ask of each one: what does this do for me this month? Anything without an answer goes in the out list with a date to reconsider — usually never.
+Before building anything, list the features, then ask of each one: what does this do for me this month? Anything without an answer goes in the out list with a date to reconsider - usually never.
 
 ## Related
 
-- [[recipe-box-app]] — the case study
-- [[home-backup-plan]] — "copy first, clean later" is the same idea
-- [[balcony-herbs]] — scope cut at the portfolio level: a whole project deferred
+- [[recipe-box-app]] - the case study
+- [[home-backup-plan]] - "copy first, clean later" is the same idea
+- [[balcony-herbs]] - scope cut at the portfolio level: a whole project deferred
 
 ## Sources
 

@@ -14,9 +14,9 @@ chat-type: planning
 
 Third attempt at a weekly review habit. The previous two both died the same way: scheduled on Monday morning as a fresh-start ritual, skipped once when the morning was busy, and never resumed. Talked through why, rather than just picking a different day and hoping.
 
-The useful reframe was that a review isn't a task, it's a *transition* — it only makes sense at a boundary between one week and the next. Monday morning is the wrong side of that boundary: by then the new week has already started making demands, so the review competes with real work and loses. Sunday evening is on the quiet side of the line, where nothing else wants the time.
+The useful reframe was that a review isn't a task, it's a *transition* - it only makes sense at a boundary between one week and the next. Monday morning is the wrong side of that boundary: by then the new week has already started making demands, so the review competes with real work and loses. Sunday evening is on the quiet side of the line, where nothing else wants the time.
 
-The second thing that came out of it: the reviews that survived in other parts of my life were all attached to something already happening. The meal planning in [[meal-planning-basics]] holds because it's welded to the shopping trip, which is non-negotiable. So the review got attached to the same anchor — after Sunday's shop, before dinner.
+The second thing that came out of it: the reviews that survived in other parts of my life were all attached to something already happening. The meal planning in [[meal-planning-basics]] holds because it's welded to the shopping trip, which is non-negotiable. So the review got attached to the same anchor - after Sunday's shop, before dinner.
 
 ## Key decisions
 
@@ -34,10 +34,10 @@ The second thing that came out of it: the reviews that survived in other parts o
 
 Habits attach to existing anchors or they don't attach at all. Every routine of mine that's survived a year is bolted to something unavoidable; every one that needed its own dedicated slot is gone. Worth applying deliberately next time rather than discovering it a third time.
 
-Also: "what pattern is that" is the only question that earns its place. What moved and what got carried are visible from the daily plans without any review at all. The pattern is the part nothing else produces — [[2026-W33]] is the first one where naming it changed the following week's plan.
+Also: "what pattern is that" is the only question that earns its place. What moved and what got carried are visible from the daily plans without any review at all. The pattern is the part nothing else produces - [[2026-W33]] is the first one where naming it changed the following week's plan.
 
 ## Links
 
-- [[learning]] — the area this belongs to
-- [[2026-W33]] — the first review written under this format
-- [[week]] — where the Sunday slot now lives
+- [[learning]] - the area this belongs to
+- [[2026-W33]] - the first review written under this format
+- [[week]] - where the Sunday slot now lives

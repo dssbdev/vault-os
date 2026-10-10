@@ -1,5 +1,5 @@
 ---
-title: "Bike commute trial month — what stuck"
+title: "Bike commute trial month - what stuck"
 type: decision
 status: reviewed
 tags: [area/cycling]
@@ -8,11 +8,11 @@ domain: cycling
 confidence: high
 ---
 
-# Bike commute trial month — what stuck
+# Bike commute trial month - what stuck
 
 ## Context
 
-May was the trial month for [[bike-commute]]. Rode eleven days of a possible twenty, which is good, but the eleven were random — every morning was a negotiation with the weather and my mood.
+May was the trial month for [[bike-commute]]. Rode eleven days of a possible twenty, which is good, but the eleven were random - every morning was a negotiation with the weather and my mood.
 
 ## Options considered
 
@@ -20,7 +20,7 @@ May was the trial month for [[bike-commute]]. Rode eleven days of a possible twe
 
 **Ride every day.** Too much; Wednesdays and Fridays are already the low-energy days in [[home-kitchen]].
 
-**Fixed days — Monday, Tuesday, Thursday — bus if it's raining at departure.** No decision on the day.
+**Fixed days - Monday, Tuesday, Thursday - bus if it's raining at departure.** No decision on the day.
 
 ## Decision
 
@@ -28,7 +28,7 @@ Fixed days. The rain rule makes it safe to commit: there's a clean exit, so ther
 
 ## Expected outcome
 
-Three rides a week through June without planning them. Met — the project closed in [[2026-Q2]].
+Three rides a week through June without planning them. Met - the project closed in [[2026-Q2]].
 
 ## Links
 

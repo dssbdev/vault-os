@@ -18,23 +18,23 @@ A rule of thumb from professional data storage that works just as well for a she
 
 **Two kinds of storage.** Copies on two hard drives from the same batch tend to fail at similar times, and copies inside one service disappear together if the account is lost. Different kinds of storage fail for different reasons, and that is exactly the property you are buying.
 
-**One copy elsewhere.** Fire, flood, and burglary do not politely take only the laptop. A copy in the same room as the original protects against a broken machine and nothing more. Elsewhere can be a service on the internet, or a drive at a relative's house that you swap every few months — the physical distance is the feature.
+**One copy elsewhere.** Fire, flood, and burglary do not politely take only the laptop. A copy in the same room as the original protects against a broken machine and nothing more. Elsewhere can be a service on the internet, or a drive at a relative's house that you swap every few months - the physical distance is the feature.
 
 **Sync is not backup.** This is the part that catches most people. A synced folder faithfully reproduces whatever you do, including deletion and corruption, on every device within seconds. It protects against a dead machine, and against nothing else. A backup is different in one specific way: it remembers what the file looked like *before*.
 
-**An untested backup is a rumour.** Backup systems fail silently — a disconnected drive, an expired login, a job that has been erroring for eight months. The only way to know is to delete something on purpose and put it back. Do that on a schedule, not once at setup.
+**An untested backup is a rumour.** Backup systems fail silently - a disconnected drive, an expired login, a job that has been erroring for eight months. The only way to know is to delete something on purpose and put it back. Do that on a schedule, not once at setup.
 
 ## Practical application
 
 Decide what actually matters first; trying to back up everything is how people end up backing up nothing. For most households it's photos, documents, and anything they made themselves.
 
-Then: original on the machine, second copy on an external drive kept at home, third copy offsite and automatic. Automatic matters more than any technical detail — a backup that depends on remembering is a backup that stops the first busy week.
+Then: original on the machine, second copy on an external drive kept at home, third copy offsite and automatic. Automatic matters more than any technical detail - a backup that depends on remembering is a backup that stops the first busy week.
 
 ## Related
 
-- [[home-backup-plan]] — this rule, applied, with dates
-- [[digital-life]] — the area it belongs to
-- [[plain-text-files]] — small plain files make all of this cheap
+- [[home-backup-plan]] - this rule, applied, with dates
+- [[digital-life]] - the area it belongs to
+- [[plain-text-files]] - small plain files make all of this cheap
 
 ## Sources
 
