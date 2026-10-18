@@ -1,54 +1,39 @@
 ---
-title: "Sprint 2026-W34-W35"
+title: "Sprint S1 - W34-W35"
 type: plan
 status: active
 tags: [planning/sprint]
 sprint-dates: 2026-08-17/2026-08-30
-created: 2026-08-17
+created: 2026-08-16
 ---
 
-# Sprint 2026-W34-W35 (Mon 17 - Sun 30 August)
+# Sprint S1 - W34-W35 (Mon 17 - Sun 30 August)
 
-## Top priorities
+**Goal: the recipe page in daily use, and two backup copies running.** From [[roadmap]].
 
-1. [[recipe-box-app]] usable end to end - list, search, and the real recipes in it
-2. [[home-backup-plan]] gets its first physical copy made
-3. Weekly review happens both Sundays, not just the first one
+Last sprint ([[sprint-2026-W32-W33]]) split attention across both projects and finished neither, and every miss was a first physical step. This one has a single goal, and the dull steps go first.
 
-## Sprint context
+## Deliverables
 
-Last sprint ([[2026-W32-W33]]) split attention across both projects and finished neither. This one deliberately ranks them: the recipe page is the priority, the backup project gets the two steps that unblock everything later and nothing more. No travel, no fixed commitments in either week.
+- [ ] **Recipe Box in use:** the list view, the search box and the remaining recipes typed in, then a full week cooked from the page ([[recipe-box-app]]) 📅 2026-08-30
+- [ ] **Two backup copies:** the external drive ordered, the first local copy made, the offsite copy running without me ([[home-backup-plan]]) 📅 2026-08-30
+- [ ] **Course unit seven:** health and appointments, written up in my own words ([[portuguese-a2-course]]) 📅 2026-08-28
 
-## Tasks
+## Home
 
-- [ ] Recipe list view on screen 📅 2026-08-19
-- [ ] Search box working 📅 2026-08-21
-- [ ] All remaining recipes typed in 📅 2026-08-26
-- [ ] Cook a full week from the page 📅 2026-08-30
-- [ ] External drive ordered 📅 2026-08-18
-- [ ] First local backup copy made 📅 2026-08-23
-- [ ] Offsite copy running unattended 📅 2026-08-30
-- [ ] Copy the phone's photo backlog onto the laptop 📅 2026-08-19
+- [ ] **The phone photos:** one blocked hour on Saturday morning, and after that they are either copied or dropped, never carried again 📅 2026-08-22
+- [ ] **Freezer inventory:** a sheet taped to the door ([[home-kitchen]]) 📅 2026-08-29
 
-## Stretch
+## Not this sprint
 
-- [ ] Print view for the recipe page
-- [ ] Freezer inventory sheet for [[home-kitchen]]
-- [ ] Rewrite [[spaced-repetition]] once the interval question is settled
+Everything else on [[roadmap]]. No new recipes, no photo deduplication (copy first, clean later), and the print view waits in `01-Inbox/` until the list view works.
 
-## Deferred - out of this sprint
+## Sprint review
 
-- Photo library deduplication. Named in [[home-backup-plan]] as a trap: copy first, clean later.
-- Any new recipes. The rotation is the scope; discovering new food is not.
-
-## End-of-sprint review
-
-*Filled on 2026-08-30.*
+*Filled at the Sunday review on 30 August.*
 
 ### Done
 
 ### Missed
 
-### Patterns
-
-### Rollover
+### Next sprint

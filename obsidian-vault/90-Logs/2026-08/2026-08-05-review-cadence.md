@@ -34,10 +34,10 @@ The second thing that came out of it: the reviews that survived in other parts o
 
 Habits attach to existing anchors or they don't attach at all. Every routine of mine that's survived a year is bolted to something unavoidable; every one that needed its own dedicated slot is gone. Worth applying deliberately next time rather than discovering it a third time.
 
-Also: "what pattern is that" is the only question that earns its place. What moved and what got carried are visible from the daily plans without any review at all. The pattern is the part nothing else produces - [[2026-W33]] is the first one where naming it changed the following week's plan.
+Also: "what pattern is that" is the only question that earns its place. What moved and what got carried are visible from the daily plans without any review at all. The pattern is the part nothing else produces - [[2026-08-16-weekly-review]] is the first one where naming it changed the following week's plan.
 
 ## Links
 
 - [[learning]] - the area this belongs to
-- [[2026-W33]] - the first review written under this format
-- [[week]] - where the Sunday slot now lives
+- [[2026-08-16-weekly-review]] - the first review written under this format
+- [[roadmap#How the system runs]] - where the Sunday slot now lives

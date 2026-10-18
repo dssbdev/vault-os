@@ -28,7 +28,7 @@ Ten minutes of radio while cooking, repeating anything that sounds odd. Words th
 
 ## Related
 
-- [[learn-portuguese-a2]] - the project
+- [[portuguese-a2]] - the project
 - [[languages]] - the area
 - [[portuguese-a2-course]] - unit two covers most of this
 

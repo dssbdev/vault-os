@@ -4,7 +4,8 @@ type: research
 status: reviewed
 tags: [dev/small-tools, research]
 created: 2026-06-28
-distributed-to: [recipe-box-app]
+distributed: true
+connected-to: [recipe-box-app]
 ---
 
 # Making a small web page work with no internet

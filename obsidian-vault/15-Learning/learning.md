@@ -4,11 +4,24 @@ type: area
 status: evergreen
 tags: [learning/methods, learning/ai, area/learning]
 created: 2026-04-11
+updated: 2026-08-16
 ---
 
 # Learning
 
-How I actually learn things, as opposed to how I used to pretend to. This area has settled enough to be trusted - the methods below have survived a year and several subjects.
+The hub for `15-Learning/`: the tracks, the courses, and how I actually learn things, as opposed to how I used to pretend to. The methods below have settled enough to be trusted - they have survived a year and several subjects.
+
+## Tracks
+
+One track at a time, per the cap in [[roadmap]]. A track has its own folder and runs on sessions until a date; a course is the material it uses.
+
+| Track | Folder | Target | Status |
+|---|---|---|---|
+| Portuguese A2 | [[portuguese-a2]] | Pass the exam on 21 November, then hold a ten-minute conversation | active |
+
+Courses live in `15-Learning/courses/`: [[portuguese-a2-course]] (active, unit six of ten) and [[web-basics-course]] (done, it built the recipe page).
+
+What comes after the exam is picked at the November sprint review: a conversation group is first in line on the board.
 
 ## The loop
 

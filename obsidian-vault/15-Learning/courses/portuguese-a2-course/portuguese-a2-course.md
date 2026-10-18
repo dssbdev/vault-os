@@ -8,7 +8,7 @@ created: 2026-04-20
 
 # Portuguese A2 course
 
-Ten units, one a fortnight, plus a weekly tutor session. Chosen in April after a week of comparing courses, which was a week of not learning Portuguese - the decision log is a single line in [[learn-portuguese-a2]]: pick one and stop shopping.
+Ten units, one a fortnight, plus a weekly tutor session. Chosen in April after a week of comparing courses, which was a week of not learning Portuguese - the decision log is a single line in [[portuguese-a2]]: pick one and stop shopping.
 
 ## Progress
 

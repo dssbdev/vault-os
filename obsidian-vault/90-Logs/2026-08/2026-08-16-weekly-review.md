@@ -1,14 +1,15 @@
 ---
-title: "Weekly Review - Week 33, 2026-08-10 to 2026-08-16"
-type: plan
+title: "Weekly Review 2026-08-16"
+type: chat-log
 status: reviewed
-tags: [planning/weekly]
+tags: [planning/review]
 created: 2026-08-16
+week-dates: 2026-08-10/2026-08-16
 ---
 
-# Weekly Review - Week 33 (Mon 10 - Sun 16 August)
+# Weekly Review - 2026-08-16 (Mon 10 - Sun 16 August)
 
-Second week of [[2026-W32-W33]], and the last week before the sprint review.
+Second week of [[sprint-2026-W32-W33]], so this review also closed the sprint. It turned into the planning reset: [[2026-08-16-planning-reset]].
 
 ## What happened
 
@@ -29,3 +30,7 @@ The list view was on the plan Tuesday, Wednesday and Thursday before being touch
 ## Into next week
 
 Recipe list view first thing Monday. Order the drive Monday. Give the photos a single blocked hour rather than a daily line. Carried into [[sprint]].
+
+## Board check
+
+Two sprints in a row ran two projects side by side, the Portuguese course sat in `10-Projects/` next to things with a build, and the plan lived in four files that each said a little of it. From today [[roadmap]] holds the board and the cap: one build, one home project, one learning track, and nothing else is open. The sourdough idea stays in the inbox; it was never on the board.

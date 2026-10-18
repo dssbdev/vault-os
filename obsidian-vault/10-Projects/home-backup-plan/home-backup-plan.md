@@ -1,13 +1,16 @@
 ---
 title: "Home Backup Plan - stop gambling with the photos"
 type: project
-status: planning
-tags: [home/files, tech/backups, project/planning]
+status: active
+tags: [home/files, tech/backups, project/active]
 created: 2026-07-21
+updated: 2026-08-16
 deadline: 2026-09-13
 ---
 
 # Home Backup Plan
+
+**Board:** Now, home lane ([[roadmap]]). Done when a file deleted on purpose comes back from each copy (S2). Moved from planning to active at the [[2026-08-16-planning-reset]].
 
 Right now every photo I have ever taken exists in exactly one place. If the laptop is stolen, dropped, or simply stops turning on one morning, all of it is gone. This project fixes that and then stops - it is a project, not a hobby, and it has an end.
 

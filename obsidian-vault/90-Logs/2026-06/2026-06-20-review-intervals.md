@@ -16,7 +16,7 @@ Started writing up [[spaced-repetition]] and hit a question it doesn't answer: t
 
 ## Key decisions
 
-- Vocabulary for [[learn-portuguese-a2]] gets proper intervals. That's exactly the use case.
+- Vocabulary for [[portuguese-a2]] gets proper intervals. That's exactly the use case.
 - Notes get one review the next day and one a week later. After that, links do the resurfacing.
 - Left the bigger question open, marked ⚠️ in the note itself.
 

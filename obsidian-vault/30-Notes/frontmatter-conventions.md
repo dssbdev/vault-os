@@ -27,11 +27,16 @@ The properties block at the top of every note. Kept small on purpose: five field
 | `deadline` | `project` | A project without one is an area in disguise |
 | `confidence` | `decision` | How sure I was - high-confidence decisions that turn out wrong are the interesting ones |
 | `superseded-by` | anything archived | Points at what replaced it, so the old reasoning stays reachable |
-| `sprint-dates` | `plan` | The two-week window |
+| `sprint-dates` | `plan` (the sprint) | The two-week window |
+| `week-dates` | the Sunday review log | The week it covers |
+| `distributed`, `connected-to` | `research` | Whether the report's findings have been folded into other notes yet, and which ones |
+| `updated` | anything | The last real change, when it matters more than the creation date |
 
 ## Status lifecycle
 
 `inbox → planning → active → reviewed → evergreen`, with `deferred` and `archived` as exits. Status moves; the file doesn't - links never break.
+
+A project's status follows its group on the board in [[roadmap]]: Now is `active`, Frozen is `deferred`, Done is `reviewed`, Killed is `archived`. The board decides; the note agrees.
 
 ## Related
 

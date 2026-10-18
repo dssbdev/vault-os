@@ -4,7 +4,8 @@ type: research
 status: reviewed
 tags: [tech/backups, research]
 created: 2026-07-24
-distributed-to: [home-backup-plan, 2026-08-02-backup-target-decision, backup-rule-321]
+distributed: true
+connected-to: [home-backup-plan, 2026-08-02-backup-target-decision, backup-rule-321]
 ---
 
 # Offsite backup options - compared

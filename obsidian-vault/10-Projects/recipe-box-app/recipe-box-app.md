@@ -9,6 +9,8 @@ deadline: 2026-08-30
 
 # Recipe Box
 
+**Board:** Now, build lane ([[roadmap]]). Done when a full week is cooked from the page without opening anything else (S1).
+
 A single searchable page holding the thirty-odd recipes I cook on repeat, replacing the current mess: screenshots in the photo app, links in browser bookmarks, a few typed into a notes app, and two on paper stuck to the fridge.
 
 ## Goal
